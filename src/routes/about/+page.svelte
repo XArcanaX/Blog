@@ -27,7 +27,7 @@
             <article class="bento-item featured">
                 <div class="bento-content">
                     <div class="profile-wrapper">
-                        <img src="static/pdp-waren.webp" alt="Portrait de Waren Deramane" class="profile-image">
+                        <img src="/static/pdp-waren.webp" alt="Portrait de Waren Deramane" class="profile-image">
                     </div>    
                     <h1>Bonjour, je suis Waren 👋</h1>
                     <p class="lead">Étudiant en Licence d'Informatique à l’Université de la Nouvelle-Calédonie (UNC) et passionné par l’innovation technologique, je consacre mon temps à explorer les multiples facettes de la programmation. Mon univers s’articule autour de trois axes principaux : la création de jeux vidéo, où je mets en scène des mécaniques interactives ; la robotique, terrain d’expérimentation pour concrétiser des idées en systèmes tangibles ; et l’Impression 3D, ou je mets en pratique mes connaissances en conception et fabrication 3D.</p>

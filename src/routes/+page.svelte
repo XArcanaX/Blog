@@ -41,8 +41,8 @@
             <article class="bento-item">
                 <div class="bento-content">
                     <span class="category">Développement</span>
-                    <h3>Optimisation de performance web</h3>
-                    <p>Les meilleures pratiques pour améliorer la vitesse de chargement de votre site.</p>
+                    <h3>Projets de programmation</h3>
+                    <p>Cette catégorie intulée Développement regroupe tous les projets de programmation étant en cours de conception, de réalisation ou de mise à jour.</p>
                 </div>
             </article>
 
@@ -61,10 +61,10 @@
             <!-- Nuage de tags -->
             <nav class="bento-item tags" aria-label="Navigation par tags">
                 <div class="bento-content">
-                    <h3>Explorez par tags</h3>
+                    <h3>Lien externes</h3>
                     <div class="tags-cloud">
-                        <a href="/tags/design" class="tag">Design</a>
-                        <a href="/tags/javascript" class="tag">JavaScript</a>
+                        <a href="https://www.youtube.com/@x-Arcana" class="tag"> <img src="static/youtube.png" alt="Youtube"></a>
+                        <a href="https://github.com/XArcanaX"> <img src="static/github.png" alt="Github"></a>
                         <a href="/tags/css" class="tag">CSS</a>
                     </div>
                 </div>
